@@ -47,3 +47,22 @@ Week 3: Projects + Mastery
 
 Clone the repository:
 
+
+## Development Environment
+
+Developed using:
+
+Cursor IDE with AI-assisted coding features and MCP environment exploration.
+
+## Future Improvements
+
+- Add course resource recommendations
+- Add downloadable roadmap PDF
+- Integrate AI APIs for smarter learning suggestions
+- Add user login system
+
+## Author
+
+Developed as part of AI Learning Path Generator project submission using Cursor IDE.
+
+
